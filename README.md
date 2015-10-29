@@ -10,6 +10,7 @@ A curated list of awesome Point Cloud Processing Resources, Libraries, Software.
 
 ## Libraries
 
+[3DTK - The 3D Toolkit](http://slam6d.sourceforge.net/)
 
 
 ## Software
@@ -17,5 +18,8 @@ A curated list of awesome Point Cloud Processing Resources, Libraries, Software.
 
 ## Papers 
 
-[Efficient Processing of Large 3D Point Clouds](https://www.researchgate.net/publication/233792575_Efficient_Processing_of_Large_3D_Point_Clouds)
+[Efficient Processing of Large 3D Point Clouds](https://www.researchgate.net/publication/233792575_Efficient_Processing_of_Large_3D_Point_Clouds) Jan Elseberg, Dorit Borrmann, Andreas N̈uchtre, Proceedings of the XXIII International Symposium on Information, Communication and Automation Technologies (ICAT '11), 2011 
 
+[Data Structure for Efficient Processing in 3-D](http://www.roboticsproceedings.org/rss01/p48.pdf) Jean-François Lalonde, Nicolas Vandapel and Martial Hebert, Robotics: Science and Systems I, 2005
+
+[An out-of-core octree for massive point cloud processing](http://rs.tudelft.nl/~rlindenbergh/workshop/WenzelIQmulus.pdf) K. Wenzel, M. Rothermel, D. Fritsch, N. Haala, Workshop on Processing Large Geospatial Data 2014
