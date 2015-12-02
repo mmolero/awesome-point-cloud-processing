@@ -15,6 +15,11 @@ A curated list of awesome Point Cloud Processing Resources, Libraries, Software.
 
 ## Software
 
+- [**Paraview**](http://www.paraview.org/). Open-source, multi-platform data analysis and visualization application. 
+- [**MeshLab**](http://meshlab.sourceforge.net/). Open source, portable, and extensible system for the processing and editing of unstructured 3D triangular meshes
+- [**CloudCompare**](http://www.danielgm.net/cc/). 3D point cloud and mesh processing software 
+Open Source Project
+- [**OpenFlipper**](http://www.openflipper.org/). An Open Source Geometry Processing and Rendering Framework
 
 ## Papers 
 
