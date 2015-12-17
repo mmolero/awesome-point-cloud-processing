@@ -8,12 +8,16 @@ A curated list of awesome Point Cloud Processing Resources, Libraries, Software.
 
 [Data Structures for Large 3D Point Cloud Processing](http://www7.informatik.uni-wuerzburg.de/mitarbeiter/nuechter/tutorial2014). Data Structures for Large 3D Point Cloud Processing Tutorial at the 13th International Conference on Intelligent Autonomous Systems
 
+[INF555 Geometric Modeling: Digital Representation
+and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/informatique/INF555/Slides/lecture7.pdf). 
+
 ## Libraries
 
+[PCL Point Cloud Library](http://pointclouds.org/) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
 [3DTK - The 3D Toolkit](http://slam6d.sourceforge.net/)
 
 
-## Software
+## Software (Open Source)
 
 - [**Paraview**](http://www.paraview.org/). Open-source, multi-platform data analysis and visualization application. 
 - [**MeshLab**](http://meshlab.sourceforge.net/). Open source, portable, and extensible system for the processing and editing of unstructured 3D triangular meshes
