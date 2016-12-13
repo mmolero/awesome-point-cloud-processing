@@ -13,9 +13,10 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 
 ## Libraries
 
-[PCL Point Cloud Library](http://pointclouds.org/) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
-[3DTK - The 3D Toolkit](http://slam6d.sourceforge.net/)
-
+- [**PCL - Point Cloud Library**](http://pointclouds.org/) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
+- [**3DTK - The 3D Toolkit**](http://slam6d.sourceforge.net/) provides algorithms and methods to process 3D point clouds. 
+- [**PDAL - Point Data Abstraction Library**](http://www.pdal.io/) is a C++ BSD library for translating and manipulating point cloud data.
+- [**libLAS**](http://www.liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format. 
 
 ## Software (Open Source)
 
