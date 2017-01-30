@@ -2,6 +2,7 @@
 
 A curated list of awesome Point Cloud Processing Resources, Libraries, Software. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
+**Please feel free to add more resources (pull requests)**
 
 
 ## Tutorials
