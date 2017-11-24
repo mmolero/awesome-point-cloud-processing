@@ -27,6 +27,10 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 Open Source Project
 - [**OpenFlipper**](http://www.openflipper.org/). An Open Source Geometry Processing and Rendering Framework
 
+## Servers
+
+- [**LOPoCS**](https://oslandia.github.io/lopocs/) is a point cloud server written in Python
+
 ## Papers 
 
 [Efficient Processing of Large 3D Point Clouds](https://www.researchgate.net/publication/233792575_Efficient_Processing_of_Large_3D_Point_Clouds) Jan Elseberg, Dorit Borrmann, Andreas N̈uchtre, Proceedings of the XXIII International Symposium on Information, Communication and Automation Technologies (ICAT '11), 2011 
