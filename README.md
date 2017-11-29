@@ -18,6 +18,7 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**3DTK - The 3D Toolkit**](http://slam6d.sourceforge.net/) provides algorithms and methods to process 3D point clouds. 
 - [**PDAL - Point Data Abstraction Library**](http://www.pdal.io/) is a C++ BSD library for translating and manipulating point cloud data.
 - [**libLAS**](http://www.liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format. 
+- [**entwine**](https://github.com/connormanning/entwine/) is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
 
 ## Software (Open Source)
 
