@@ -19,6 +19,7 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**PDAL - Point Data Abstraction Library**](http://www.pdal.io/) is a C++ BSD library for translating and manipulating point cloud data.
 - [**libLAS**](http://www.liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format. 
 - [**entwine**](https://github.com/connormanning/entwine/) is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
+- [**PotreeConverter**](https://github.com/potree/PotreeConverter) is another data organisation library, generating data for use in the Potree web viewer.
 
 ## Software (Open Source)
 
@@ -31,6 +32,11 @@ Open Source Project
 ## Servers
 
 - [**LOPoCS**](https://oslandia.github.io/lopocs/) is a point cloud server written in Python
+- [**Greyhound**](https://github.com/hobu/greyhound) is a server designed to deliver points from Entwine octrees
+
+## Web-based point cloud viewers
+
+- [**potree**](https://github.com/potree/potree) is a web-based octree viewer written in Javascript.
 
 ## Papers 
 
