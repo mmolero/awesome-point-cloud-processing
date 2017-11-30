@@ -36,7 +36,7 @@ Open Source Project
 
 ## Web-based point cloud viewers
 
-- [**potree**](https://github.com/potree/potree) is a web-based octree viewer written in Javascript.
+- [**Potree**](https://github.com/potree/potree) is a web-based octree viewer written in Javascript.
 
 ## Papers 
 
