@@ -28,6 +28,7 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**CloudCompare**](http://www.danielgm.net/cc/). 3D point cloud and mesh processing software 
 Open Source Project
 - [**OpenFlipper**](http://www.openflipper.org/). An Open Source Geometry Processing and Rendering Framework
+- [**PotreeDesktop**](https://github.com/potree/PotreeDesktop). A desktop/portable version of the web-based point cloud viewer [**Potree**](https://github.com/potree/potree)
 
 ## Servers
 
