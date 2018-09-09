@@ -12,6 +12,8 @@ A curated list of awesome Point Cloud Processing Resources, Libraries, Software.
 [INF555 Geometric Modeling: Digital Representation
 and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/informatique/INF555/Slides/lecture7.pdf). 
 
+[3D Deep Learning on Point Cloud Data](http://graphics.stanford.edu/courses/cs468-17-spring/LectureSlides/L16%20-%203d%20deep%20learning%20on%20point%20cloud%20(analysis)%20and%20joint%20embedding.pdf)
+
 ## Libraries
 
 - [**PCL - Point Cloud Library**](http://pointclouds.org/) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
