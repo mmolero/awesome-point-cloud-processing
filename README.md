@@ -41,9 +41,10 @@ Open Source Project
 
 - [**Potree**](https://github.com/potree/potree) is a web-based octree viewer written in Javascript.
 
-## Conference
+## Conferences
 
 - [**International LiDAR Mapping Forum**](https://www.lidarmap.org/) International LiDAR Mapping Forum (ILMF)
+- [**3D-ARCH**](http://www.3d-arch.org/) is a series of international workshops to discuss steps and processes for smart 3D reconstruction, modelling, accessing and understanding of digital environments from multiple data sources.
 
 ## Community
 
