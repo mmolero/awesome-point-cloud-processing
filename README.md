@@ -16,6 +16,7 @@ A curated list of awesome Point Cloud Processing Resources, Libraries, Software.
 - [Point data manipulation with PDAL](http://nbviewer.jupyter.org/github/adamsteer/nci-notebooks/blob/master/data_days2016/PDAL%20on%20the%20VDI.ipynb)
 
 - [Pdal Notebooks](https://github.com/chambbj/pdal-notebook/blob/master/notebooks) - Getting Started with PDAL Notebooks, Ground Extraction Using Differential Morphological Profiles.
+- [Point Cloud Processing](https://github.com/rockestate/point-cloud-processing) - Point cloud classification and modeling using PCL, PDAL, and others
 
 ## Videos
 - [500 Billion Points: Organizing Points as infrastructure](http://ftp5.gwdg.de/pub/misc/openstreetmap/FOSS4G-2016/foss4g-2016-1204-500_billion_points_organizing_point_clouds_as_infrastructure-hd.mp4)
