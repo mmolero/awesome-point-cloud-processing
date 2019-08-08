@@ -19,7 +19,7 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**PCL - Point Cloud Library**](http://pointclouds.org/) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
 - [**3DTK - The 3D Toolkit**](http://slam6d.sourceforge.net/) provides algorithms and methods to process 3D point clouds. 
 - [**PDAL - Point Data Abstraction Library**](http://www.pdal.io/) is a C++ BSD library for translating and manipulating point cloud data.
-- [**libLAS**](http://liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format. 
+- [**libLAS**](http://liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format (Legacy. Replaced by PDAL). 
 - [**entwine**](https://github.com/connormanning/entwine/) is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
 - [**PotreeConverter**](https://github.com/potree/PotreeConverter) is another data organisation library, generating data for use in the Potree web viewer.
 - [**lidR**](https://github.com/Jean-Romain/lidR) R package for Airborne LiDAR Data Manipulation and Visualization for Forestry Applications.
