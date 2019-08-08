@@ -4,6 +4,16 @@ A curated list of awesome Point Cloud Processing Resources, Libraries, Software 
 
 **Please feel free to add more resources (pull requests)**
 
+## SICK LMS program examples and Drivers
+
+- [**LMS511-SICK-Laser-sensor-communication-tcp-ip**](https://github.com/MareArts/LMS511-SICK-Laser-sensor-communication-tcp-ip) is a communication sample code (tcp/ip).
+- [**Sick LIDAR Matlab/C++ Toolbox**](http://sicktoolbox.sourceforge.net/) is an open-source software package released under a BSD Open-Source License that provides stable and easy-to-use C++ drivers for Sick LMS 2xx and Sick LD laser range finders. In addition to low-level drivers, the package also features an easy to use Mex interface, which allows the end-user to stream real-time range and reflectivity data directly into Matlab.
+- [**sick_scan**](https://github.com/SICKAG/sick_scan) provides a ROS driver for the SICK laser and radar sensors.
+- [**MAX SICK LMS100**](https://github.com/v2lab/max-sick-lms100) is a [Max5](https://cycling74.com/downloads/sdk) external object that provides a simple interface to the Laser Measurement System from Max5 programming environment.
+- [**py-LMS-sick-telegram-example**](https://github.com/danieltak/py-LMS-sick-telegram-example) is a Python program for Telegram commands examples
+- [**OpenLMS111**](https://github.com/d33z/OpenLMS111) is a (Java) driver and tools for the LMS 111 SICK Lidar.
+- [**libLMS1xx**](https://github.com/konradb3/libLMS1xx) is a C++ Library for interfacing with SICK LMS1xx lidar.
+- [**LMS291**](https://github.com/vab/LMS291) is a C++ Library for interfacing with SICK LMS291.
 
 ## Tutorials
 
@@ -19,11 +29,11 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**PCL - Point Cloud Library**](http://pointclouds.org/) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
 - [**3DTK - The 3D Toolkit**](http://slam6d.sourceforge.net/) provides algorithms and methods to process 3D point clouds. 
 - [**PDAL - Point Data Abstraction Library**](http://www.pdal.io/) is a C++ BSD library for translating and manipulating point cloud data.
-- [**libLAS**](http://liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format (Legacy. Replaced by PDAL). 
 - [**entwine**](https://github.com/connormanning/entwine/) is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
 - [**PotreeConverter**](https://github.com/potree/PotreeConverter) is another data organisation library, generating data for use in the Potree web viewer.
 - [**lidR**](https://github.com/Jean-Romain/lidR) R package for Airborne LiDAR Data Manipulation and Visualization for Forestry Applications.
 - [**PDAL**](https://pdal.io/) library and applications for translating and processing point cloud data. 
+- [**libLAS**](http://liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format (Legacy. Replaced by PDAL). 
 
 ## Software (Open Source)
 
@@ -44,6 +54,10 @@ Open Source Project
 ## Web-based point cloud viewers
 
 - [**Potree**](https://github.com/potree/potree) is a web-based octree viewer written in Javascript.
+
+## Robotics
+
+
 
 ## Conferences
 
