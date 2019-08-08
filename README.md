@@ -35,6 +35,7 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**libLAS**](http://liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format (Legacy. Replaced by PDAL). 
 - [**pypcd**](https://github.com/dimatura/pypcd) Python module to read and write point clouds stored in the PCD file format, used by the Point Cloud Library.
 - [**Open3D**](https://github.com/dimatura/pypcd) is an open-source library that supports rapid development of software that deals with 3D data.
+- [**segmenters_lib**](https://github.com/LidarPerception/segmenters_lib) is a ROS library for segmentation-based detection.
 
 ## Software (Open Source)
 
