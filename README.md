@@ -70,6 +70,8 @@ Open Source Project
 
 ## Papers 
 
+[awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) for anyone who wants to do research about 3D point cloud.
+
 [Efficient Processing of Large 3D Point Clouds](https://www.researchgate.net/publication/233792575_Efficient_Processing_of_Large_3D_Point_Clouds) Jan Elseberg, Dorit Borrmann, Andreas N̈uchtre, Proceedings of the XXIII International Symposium on Information, Communication and Automation Technologies (ICAT '11), 2011 
 
 [Data Structure for Efficient Processing in 3-D](http://www.roboticsproceedings.org/rss01/p48.pdf) Jean-François Lalonde, Nicolas Vandapel and Martial Hebert, Robotics: Science and Systems I, 2005
