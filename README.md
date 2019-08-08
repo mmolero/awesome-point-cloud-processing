@@ -43,7 +43,6 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 Open Source Project
 - [**OpenFlipper**](http://www.openflipper.org/). An Open Source Geometry Processing and Rendering Framework
 - [**PotreeDesktop**](https://github.com/potree/PotreeDesktop). A desktop/portable version of the web-based point cloud viewer
-- [**Potree**](https://github.com/potree/potree)
 - [**LAStools**](https://github.com/LAStools/LAStools) award-winning tools for efficient LiDAR processing (with LASzip)
 
 ## Servers
@@ -58,7 +57,7 @@ Open Source Project
 ## Robotics
 
 - [**Mobile Robot Programming Toolkit (MRPT)**](https://www.mrpt.org/) provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas.
-- [**Robot Operating System**](https://www.ros.org/)  is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
+- [**Robot Operating System (ROS)**](https://www.ros.org/)  is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
 
 ## Conferences
 
