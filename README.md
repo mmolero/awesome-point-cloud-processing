@@ -58,6 +58,7 @@ Open Source Project
 
 - [**Mobile Robot Programming Toolkit (MRPT)**](https://www.mrpt.org/) provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas.
 - [**Robot Operating System (ROS)**](https://www.ros.org/)  is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
+- [**awesome-robotics**](https://github.com/ahundt/awesome-robotics) is a curated list of awesome links and software libraries that are useful for robots.
 
 ## Conferences
 
