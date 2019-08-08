@@ -1,6 +1,6 @@
 # awesome-sick-lms-point-cloud
 
-A curated list of awesome Point Cloud Processing Resources, Libraries, Software and SICK LMS 2D Lidar Scanner Resourses. Started by a clone from [awesome-point-cloud-processing](https://github.com/mmolero/awesome-point-cloud-processing)
+A curated list of awesome Point Cloud Processing Resources, Libraries, Software and SICK LMS 2D Lidar Scanner Resourses. Forked from [awesome-point-cloud-processing](https://github.com/mmolero/awesome-point-cloud-processing)
 
 **Please feel free to add more resources (pull requests)**
 
