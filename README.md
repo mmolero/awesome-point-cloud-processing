@@ -31,10 +31,10 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**entwine**](https://github.com/connormanning/entwine/) is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
 - [**PotreeConverter**](https://github.com/potree/PotreeConverter) is another data organisation library, generating data for use in the Potree web viewer.
 - [**lidR**](https://github.com/Jean-Romain/lidR) R package for Airborne LiDAR Data Manipulation and Visualization for Forestry Applications.
-- [**PDAL - Point Data Abstraction Library**](http://www.pdal.io/) is a C++ BSD library for translating and manipulating point cloud data.
+- [**PDAL - Point Data Abstraction Library**](http://www.pdal.io/) is a C++/Python BSD library for translating and manipulating point cloud data.
 - [**libLAS**](http://liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format (Legacy. Replaced by PDAL). 
 - [**pypcd**](https://github.com/dimatura/pypcd) Python module to read and write point clouds stored in the PCD file format, used by the Point Cloud Library.
-- [**Open3D**](https://github.com/dimatura/pypcd) is an open-source library that supports rapid development of software that deals with 3D data.
+- [**Open3D**](https://github.com/dimatura/pypcd) is a Python open-source library that supports rapid development of software that deals with 3D data.
 - [**segmenters_lib**](https://github.com/LidarPerception/segmenters_lib) is a ROS node for segmentation-based detection.
 
 ## Software (Open Source)
