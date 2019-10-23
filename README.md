@@ -1,19 +1,9 @@
-# awesome-sick-lms-point-cloud
+# awesome-point-cloud-processing
 
-A curated list of awesome Point Cloud Processing Resources, Libraries, Software and SICK LMS 2D Lidar Scanner Resourses. Forked from [awesome-point-cloud-processing](https://github.com/mmolero/awesome-point-cloud-processing)
+A curated list of awesome Point Cloud Processing Resources, Libraries, Software. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 **Please feel free to add more resources (pull requests)**
 
-## SICK LMS program examples and Drivers
-
-- [**LMS511-SICK-Laser-sensor-communication-tcp-ip**](https://github.com/MareArts/LMS511-SICK-Laser-sensor-communication-tcp-ip) is a communication sample code (tcp/ip).
-- [**Sick LIDAR Matlab/C++ Toolbox**](http://sicktoolbox.sourceforge.net/) is an open-source software package released under a BSD Open-Source License that provides stable and easy-to-use C++ drivers for Sick LMS 2xx and Sick LD laser range finders. In addition to low-level drivers, the package also features an easy to use Mex interface, which allows the end-user to stream real-time range and reflectivity data directly into Matlab.
-- [**sick_scan**](https://github.com/SICKAG/sick_scan) provides a ROS driver for the SICK laser and radar sensors.
-- [**MAX SICK LMS100**](https://github.com/v2lab/max-sick-lms100) is a [Max5](https://cycling74.com/downloads/sdk) external object that provides a simple interface to the Laser Measurement System from Max5 programming environment.
-- [**py-LMS-sick-telegram-example**](https://github.com/danieltak/py-LMS-sick-telegram-example) is a Python program for Telegram commands examples
-- [**OpenLMS111**](https://github.com/d33z/OpenLMS111) is a (Java) driver and tools for the LMS 111 SICK Lidar.
-- [**libLMS1xx**](https://github.com/konradb3/libLMS1xx) is a C++ Library for interfacing with SICK LMS1xx lidar.
-- [**LMS291**](https://github.com/vab/LMS291) is a C++ Library for interfacing with SICK LMS291.
 
 ## Tutorials
 
@@ -28,6 +18,8 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 
 - [**PCL - Point Cloud Library**](http://pointclouds.org/) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
 - [**3DTK - The 3D Toolkit**](http://slam6d.sourceforge.net/) provides algorithms and methods to process 3D point clouds. 
+- [**PDAL - Point Data Abstraction Library**](http://www.pdal.io/) is a C++ BSD library for translating and manipulating point cloud data.
+- [**libLAS**](http://www.liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format. 
 - [**entwine**](https://github.com/connormanning/entwine/) is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
 - [**PotreeConverter**](https://github.com/potree/PotreeConverter) is another data organisation library, generating data for use in the Potree web viewer.
 - [**lidR**](https://github.com/Jean-Romain/lidR) R package for Airborne LiDAR Data Manipulation and Visualization for Forestry Applications.
@@ -35,7 +27,6 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**libLAS**](http://liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format (Legacy. Replaced by PDAL). 
 - [**pypcd**](https://github.com/dimatura/pypcd) Python module to read and write point clouds stored in the PCD file format, used by the Point Cloud Library.
 - [**Open3D**](https://github.com/intel-isl/Open3D) is a Python open-source library that supports rapid development of software that deals with 3D data.
-- [**segmenters_lib**](https://github.com/LidarPerception/segmenters_lib) is a ROS node for segmentation-based detection.
 
 ## Software (Open Source)
 
@@ -44,8 +35,7 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**CloudCompare**](http://www.danielgm.net/cc/). 3D point cloud and mesh processing software 
 Open Source Project
 - [**OpenFlipper**](http://www.openflipper.org/). An Open Source Geometry Processing and Rendering Framework
-- [**PotreeDesktop**](https://github.com/potree/PotreeDesktop). A desktop/portable version of the web-based point cloud viewer
-- [**LAStools**](https://github.com/LAStools/LAStools) award-winning tools for efficient LiDAR processing (with LASzip)
+- [**PotreeDesktop**](https://github.com/potree/PotreeDesktop). A desktop/portable version of the web-based point cloud viewer [**Potree**](https://github.com/potree/potree)
 
 ## Servers
 
@@ -55,12 +45,6 @@ Open Source Project
 ## Web-based point cloud viewers
 
 - [**Potree**](https://github.com/potree/potree) is a web-based octree viewer written in Javascript.
-
-## Robotics
-
-- [**Mobile Robot Programming Toolkit (MRPT)**](https://www.mrpt.org/) provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas.
-- [**Robot Operating System (ROS)**](https://www.ros.org/)  is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
-- [**awesome-robotics**](https://github.com/ahundt/awesome-robotics) is a curated list of awesome links and software libraries that are useful for robots.
 
 ## Conferences
 
