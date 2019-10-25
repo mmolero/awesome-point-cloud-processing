@@ -23,6 +23,10 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**entwine**](https://github.com/connormanning/entwine/) is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
 - [**PotreeConverter**](https://github.com/potree/PotreeConverter) is another data organisation library, generating data for use in the Potree web viewer.
 - [**lidR**](https://github.com/Jean-Romain/lidR) R package for Airborne LiDAR Data Manipulation and Visualization for Forestry Applications.
+- [**PDAL - Point Data Abstraction Library**](http://www.pdal.io/) is a C++/Python BSD library for translating and manipulating point cloud data.
+- [**libLAS**](http://liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format (Legacy. Replaced by PDAL). 
+- [**pypcd**](https://github.com/dimatura/pypcd) Python module to read and write point clouds stored in the PCD file format, used by the Point Cloud Library.
+- [**Open3D**](https://github.com/intel-isl/Open3D) is a Python open-source library that supports rapid development of software that deals with 3D data.
 
 ## Software (Open Source)
 
@@ -52,6 +56,8 @@ Open Source Project
 - [**Laser Scanning Forum**](https://www.laserscanningforum.com/forum/) Laser Scanning Forum
 
 ## Papers 
+
+[awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) for anyone who wants to do research about 3D point cloud.
 
 [Efficient Processing of Large 3D Point Clouds](https://www.researchgate.net/publication/233792575_Efficient_Processing_of_Large_3D_Point_Clouds) Jan Elseberg, Dorit Borrmann, Andreas N̈uchtre, Proceedings of the XXIII International Symposium on Information, Communication and Automation Technologies (ICAT '11), 2011 
 
