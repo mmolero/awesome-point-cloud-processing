@@ -24,7 +24,7 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**PotreeConverter**](https://github.com/potree/PotreeConverter) is another data organisation library, generating data for use in the Potree web viewer.
 - [**lidR**](https://github.com/Jean-Romain/lidR) R package for Airborne LiDAR Data Manipulation and Visualization for Forestry Applications. 
 - [**pypcd**](https://github.com/dimatura/pypcd) Python module to read and write point clouds stored in the PCD file format, used by the Point Cloud Library.
-- [**Open3D**](https://github.com/intel-isl/Open3D) is a Python open-source library that supports rapid development of software that deals with 3D data.
+- [**Open3D**](https://github.com/intel-isl/Open3D) is an open-source library that supports rapid development of software that deals with 3D data. It has Python and C++ frontends.
 
 ## Software (Open Source)
 
