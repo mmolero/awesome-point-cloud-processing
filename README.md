@@ -25,6 +25,9 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**lidR**](https://github.com/Jean-Romain/lidR) R package for Airborne LiDAR Data Manipulation and Visualization for Forestry Applications. 
 - [**pypcd**](https://github.com/dimatura/pypcd) Python module to read and write point clouds stored in the PCD file format, used by the Point Cloud Library.
 - [**Open3D**](https://github.com/intel-isl/Open3D) is a Python open-source library that supports rapid development of software that deals with 3D data.
+- [**PyVista**](https://github.com/pyvista/pyvista/) 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit(VTK).
+- [**pyntcloud**](https://github.com/daavoo/pyntcloud) is a Python library for working with 3D point clouds.
+- [**pylas**](https://github.com/tmontaigu/pylas) Reading Las (lidar) in Python.
 
 ## Software (Open Source)
 
