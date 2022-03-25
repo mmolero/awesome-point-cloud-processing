@@ -38,6 +38,7 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 Open Source Project
 - [**OpenFlipper**](http://www.openflipper.org/). An Open Source Geometry Processing and Rendering Framework
 - [**PotreeDesktop**](https://github.com/potree/PotreeDesktop). A desktop/portable version of the web-based point cloud viewer [**Potree**](https://github.com/potree/potree)
+- [**3d-annotation-tool**](https://github.com/StrayRobots/3d-annotation-tool). A lightweight desktop application to annotate pointclouds for machine learning.
 
 ## Servers
 
