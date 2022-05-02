@@ -54,10 +54,13 @@ Open Source Project
 
 - [**International LiDAR Mapping Forum**](https://www.lidarmap.org/) International LiDAR Mapping Forum (ILMF)
 - [**3D-ARCH**](http://www.3d-arch.org/) is a series of international workshops to discuss steps and processes for smart 3D reconstruction, modelling, accessing and understanding of digital environments from multiple data sources.
+- [**Geo Business**](https://www.geobusinessshow.com/programme/) Geospatial event with many 3D Point clound and LiDAR presentations.
+- [**LiDAR Comex**](https://lidarcomex.com/) The Lidar Commercial Expo.
 
 ## Community
 
 - [**Laser Scanning Forum**](https://www.laserscanningforum.com/forum/) Laser Scanning Forum
+- [**PCL Discord**](https://discord.com/invite/JFFMAXS) Point Cloud Library (PCL) Discord channel.
 
 ## Papers 
 
@@ -68,3 +71,10 @@ Open Source Project
 [Data Structure for Efficient Processing in 3-D](http://www.roboticsproceedings.org/rss01/p48.pdf) Jean-François Lalonde, Nicolas Vandapel and Martial Hebert, Robotics: Science and Systems I, 2005
 
 [An out-of-core octree for massive point cloud processing](http://rs.tudelft.nl/~rlindenbergh/workshop/WenzelIQmulus.pdf) K. Wenzel, M. Rothermel, D. Fritsch, N. Haala, Workshop on Processing Large Geospatial Data 2014
+
+## News
+
+[LiDAR News](https://lidarnews.com/) About 3D laser scanning and lidar, along with a number of related technologies such as unmanned aerial systems – UASs and photogrammetry. 
+[LiDAR Mag](https://lidarmag.com/) Magazine about LiDARs.
+[Wired](https://www.wired.com/tag/lidar/) The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business, science to design.
+[GIM International](https://www.gim-international.com/news/lidar) GIM International is the independent and high-quality information source for everything the global geomatics industry has to offer.
