@@ -75,6 +75,9 @@ Open Source Project
 ## News
 
 [LiDAR News](https://lidarnews.com/) About 3D laser scanning and lidar, along with a number of related technologies such as unmanned aerial systems – UASs and photogrammetry. 
+
 [LiDAR Mag](https://lidarmag.com/) Magazine about LiDARs.
+
 [Wired](https://www.wired.com/tag/lidar/) The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business, science to design.
+
 [GIM International](https://www.gim-international.com/news/lidar) GIM International is the independent and high-quality information source for everything the global geomatics industry has to offer.
