@@ -14,6 +14,8 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 
 [3D Deep Learning on Point Cloud Data](http://graphics.stanford.edu/courses/cs468-17-spring/LectureSlides/L16%20-%203d%20deep%20learning%20on%20point%20cloud%20(analysis)%20and%20joint%20embedding.pdf)
 
+[tutorials-pointcloud-python](https://github.com/jlgregorio/tutorials-pointcloud-python). A set of Python tutorials (Jupyter notebooks) covering popular point cloud processing techniques.
+
 ## Libraries
 
 - [**PCL - Point Cloud Library**](http://pointclouds.org/) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
@@ -30,6 +32,9 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**pyntcloud**](https://github.com/daavoo/pyntcloud) is a Python library for working with 3D point clouds.
 - [**pylas**](https://github.com/tmontaigu/pylas) Reading Las (lidar) in Python.
 - [**PyTorch**](https://github.com/rusty1s/pytorch_geometric) PyTorch Geometric (PyG) is a geometric deep learning extension library for PyTorch.
+- [**CloudComPy**](https://github.com/CloudCompare/CloudComPy). Python wrapper for CloudCompare.
+- [**PyMeshLab**](https://pymeshlab.readthedocs.io/en/latest/). Python library that interfaces to MeshLab.
+
 
 ## Software (Open Source)
 
