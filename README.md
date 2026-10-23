@@ -48,6 +48,7 @@ Open Source Project
 
 ## Web-based point cloud viewers
 
+- [**LidarKit**](https://lidar-kit.com/) is a browser-based LAS, LAZ, COPC and E57 viewer and converter that decodes files locally with WebAssembly.
 - [**Potree**](https://github.com/potree/potree) is a web-based octree viewer written in Javascript.
 
 ## Conferences
